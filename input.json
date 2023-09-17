@@ -1,0 +1,5 @@
+{
+    "job_id": "train",
+    "ground_truth_annotations": "train_labels.csv",
+    "yolo_output_dir": ""
+}

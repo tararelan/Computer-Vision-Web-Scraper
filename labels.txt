@@ -1,0 +1,14 @@
+1_star
+2_star
+3_star
+4_star
+5_star
+company
+coupon
+discount
+final_price
+number_rating
+original_price
+product_image
+product_title
+product_type
