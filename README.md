@@ -1,2 +1,2 @@
-# Computer-Vision-Web-Scraper
-Made a computer vision web scraper using YOLOv5 to extract information from various e-commerce websites.
+# YOLOv5 Web Scraper
+Made a computer vision-based web scraper using YOLOv5 to extract price, image, rating, discount information from various e-commerce websites.
